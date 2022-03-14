@@ -31,3 +31,5 @@ nslookup $x
 echo ""
 echo ""
 echo ""
+echo "script finalizado"
+echo "version beta"
