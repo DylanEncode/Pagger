@@ -31,5 +31,23 @@ nslookup $x
 echo ""
 echo ""
 echo ""
-echo "script finalizado"
+echo ""
+echo "lookup obtenido correctamente"
+echo "============================="
+dig $x
+sleep 2;
+echo ""
+echo ""
+echo ""
+echo "dig obtenido correctamente."
+echo "============================"
+dig -x $x
+sleep;2
+echo ""
+echo ""
+echo ""
+echo "otro dig obtenido correctamente"
+echo "==============================="
+sleep 2;
+echo "script terminado."
 echo "version beta"
