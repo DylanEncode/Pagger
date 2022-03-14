@@ -1,10 +1,15 @@
 # Pagger
 <center>
+</br>
 Pagger escaner
+</br>
 Instalación
+</br>
 git clone https://github.com/DylanEncode/Pagger/
+</br>
 cd Pagger
-bash pagger sh
+</br>
+bash pagger.sh
 
 
 
